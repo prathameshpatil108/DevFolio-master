@@ -20,7 +20,7 @@
 
 To view a demo example, **(https://prathameshpatil108.github.io/DevFolio-master/)**
 
-To view live example repo, **[Click Here](https://github.com/prathameshpatil108)**
+To view live example repo, **[https://prathameshpatil108.github.io/DevFolio-master/](https://github.com/prathameshpatil108)**
 
 ## Getting Started 🚀
 
