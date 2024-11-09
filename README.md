@@ -18,7 +18,7 @@
 ⚡️ Valid HTML5 & CSS3\
 ⚡ Fast and SEO Optimized
 
-To view a demo example, **[Click Here](https://devfolio.js.org)**\
+To view a demo example, **(https://prathameshpatil108.github.io/DevFolio-master/)**
 
 To view live example repo, **[Click Here](https://github.com/prathameshpatil108)**
 
